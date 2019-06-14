@@ -18,6 +18,7 @@
 		E6C13F5B22B33EE200520E5A /* Gig.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C13F5A22B33EE200520E5A /* Gig.swift */; };
 		E6C13F5D22B33F7900520E5A /* Bearer.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C13F5C22B33F7900520E5A /* Bearer.swift */; };
 		E6C13F5F22B33FD100520E5A /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C13F5E22B33FD100520E5A /* User.swift */; };
+		E6C13F6122B3409300520E5A /* GigController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6C13F6022B3409300520E5A /* GigController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		E6C13F5A22B33EE200520E5A /* Gig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gig.swift; sourceTree = "<group>"; };
 		E6C13F5C22B33F7900520E5A /* Bearer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bearer.swift; sourceTree = "<group>"; };
 		E6C13F5E22B33FD100520E5A /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		E6C13F6022B3409300520E5A /* GigController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GigController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 		E6C13F5722B33EAC00520E5A /* Model Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				E6C13F6022B3409300520E5A /* GigController.swift */,
 			);
 			path = "Model Controllers";
 			sourceTree = "<group>";
@@ -195,6 +198,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E6C13F5322B3373500520E5A /* LoginViewController.swift in Sources */,
+				E6C13F6122B3409300520E5A /* GigController.swift in Sources */,
 				E6C13F5522B33DCD00520E5A /* GigsDetailViewController.swift in Sources */,
 				E6C13F5D22B33F7900520E5A /* Bearer.swift in Sources */,
 				E6C13F3C22B3316900520E5A /* AppDelegate.swift in Sources */,
